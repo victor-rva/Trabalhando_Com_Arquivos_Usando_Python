@@ -133,16 +133,16 @@ Este script é uma ferramenta útil para automatizar a conversão de vídeos, es
 
 
 
-# Renomeador de Arquivos MP4
+## Renomeador de Arquivos MP4
 
 Este é um simples script em Python desenvolvido para renomear arquivos MP4 em um diretório específico. Ele utiliza expressões regulares para extrair números do nome do arquivo e os zera à esquerda, garantindo uma ordenação adequada.
 
-## Como Usar o Script
+### Como Usar o Script
 
 1. Baixe o script e execute-o em um ambiente Python compatível.
 2. Modifique a variável `main_folder` para o caminho do diretório contendo os arquivos MP4 que você deseja renomear.
 
-## Detalhes do Script
+### Detalhes do Script
 
 - **Função `rename_file(file)`:**
   - Recebe um nome de arquivo como entrada.
@@ -163,7 +163,7 @@ Este é um simples script em Python desenvolvido para renomear arquivos MP4 em u
 - **Execução do Script:**
   - Ao executar o script, ele renomeará todos os arquivos MP4 no diretório principal e seus subdiretórios, seguindo a lógica de renomeação definida.
 
-### Observação Importante:
+#### Observação Importante:
 - Certifique-se de fazer backup dos arquivos antes de executar o script, especialmente se estiver trabalhando em um diretório contendo dados importantes.
 
 Este script é útil para padronizar a numeração de arquivos MP4 em um diretório, facilitando a organização e ordenação dos mesmos.
