@@ -91,7 +91,7 @@ Além disso, o script apresenta um exemplo do uso do bloco `try`, `finally` para
 
 ## Conversor de Vídeos com Python + FFMPEG
 
-Este é um script Python desenvolvido durante a **Aula 34** que demonstra como automatizar a conversão de vídeos usando o FFMPEG, um poderoso conversor de vídeos que é comumente utilizado por meio de linhas de comando. Se você ainda não possui o FFMPEG instalado, você pode obtê-lo [aqui](https://ffmpeg.zeranoe.com/builds/).
+Este é um script Python que demonstra como automatizar a conversão de vídeos usando o FFMPEG, um poderoso conversor de vídeos que é comumente utilizado por meio de linhas de comando. Se você ainda não possui o FFMPEG instalado, você pode obtê-lo [aqui](https://ffmpeg.zeranoe.com/builds/).
 
 ### Como Usar o Script
 
